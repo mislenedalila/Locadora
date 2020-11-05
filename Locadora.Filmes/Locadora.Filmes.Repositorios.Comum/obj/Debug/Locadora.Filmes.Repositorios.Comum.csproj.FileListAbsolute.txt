@@ -1,0 +1,5 @@
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.csproj.CoreCompileInputs.cache
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.pdb

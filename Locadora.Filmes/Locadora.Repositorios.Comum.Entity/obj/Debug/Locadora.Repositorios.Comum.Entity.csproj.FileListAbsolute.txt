@@ -1,0 +1,28 @@
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll.config
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.pdb
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csprojAssemblyReference.cache
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CopyComplete
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.dll
+C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.pdb
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll.config
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.pdb
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csprojAssemblyReference.cache
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CopyComplete
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.dll
+C:\Users\Mislene\Documents\ProjetoTesteVs\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.pdb
