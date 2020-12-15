@@ -14,7 +14,7 @@
         <input type="text" id="pesquisaAlbum" class="form-control"/>
     </div>
     <div class="col-md-2">
-        <button id="btnPesquisarAlbum">Pesquisar</button>
+        <button id="btnPesquisarAlbum" class="btn btn-default">Pesquisar</button>
     </div>
 </div>
 <table class="table" id="tblAlbuns">
@@ -75,7 +75,7 @@
                 var termoPesquisa = $("#pesquisaAlbum").val();
                 $.ajax({
                     method: "GET",
-                    url: "/Albuns/FiltrarPorNome?pesquisa=" + termoPesquisa,
+                    url: "/Albuns/FiltrarPorNome/" + termoPesquisa,
                     success: function (data) {
                         $("#tblAlbuns tbody > tr").remove();
                         $.each(data, function (i, album) {
